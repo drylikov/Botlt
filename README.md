@@ -96,6 +96,8 @@ npm start
 
 The bot will scrape posts from the specified subreddits on Reddit according to the configuration file and post them on the corresponding /kbin magazines or Lemmy communities.
 
+
+
 ## Development
 
 During development, you can use the following command to run the bot without the need for building:
