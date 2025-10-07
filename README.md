@@ -80,6 +80,8 @@ Additionally, set up the following environment variables by copying the provided
 - `LEMMY_USER`: Username for your Lemmy account
 - `LEMMY_PASS`: Password for your Lemmy account
 
+
+
 ## Usage
 
 To build the project, use the following command:
