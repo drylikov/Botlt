@@ -15,7 +15,7 @@ Botlt is a Node.js application that scrapes posts containing external links from
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/driccio98/Botlt.git
+   git clone https://github.com/drylikov/Botlt.git
    ```
 
 2. Navigate to the project directory:
