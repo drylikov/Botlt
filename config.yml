@@ -1,0 +1,34 @@
+
+reddit:
+  baseUrl: https://old.reddit.com
+
+lemmy:
+  baseUrl: https://lemmy.world
+
+communityMap:
+  - subreddit: mma
+    postFilter:
+      postLimit: 50
+      minUpvotes: 200
+      maxDownvotes: 100
+      minUpvoteRatio: 0.70
+      maxTimeHours: 10
+    community: mma@kbin.social
+
+  - subreddit: worldnews
+    postFilter:
+      postLimit: 75
+      minUpvotes: 800
+      maxDownvotes: 300
+      minUpvoteRatio: 0.75
+      maxTimeHours: 6
+    community: world@lemmy.world
+    
+  - subreddit: worldnews
+    postFilter:
+      postLimit: 75
+      minUpvotes: 800
+      maxDownvotes: 300
+      minUpvoteRatio: 0.75
+      maxTimeHours: 5
+    community: worldnews@lemmy.ml
