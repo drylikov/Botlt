@@ -1,3 +1,6 @@
+
+
+
 # Botlt
 
 Botlt is a Node.js application that scrapes posts containing external links from specific subreddits on Reddit and posts them on either a /kbin magazine or a Lemmy community. It allows for handling multiple subreddits and communities, with individual filters for each.
