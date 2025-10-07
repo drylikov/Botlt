@@ -28,6 +28,8 @@ Botlt is a Node.js application that scrapes posts containing external links from
    npm install
    ```
 
+
+
 ## Configuration
 
 The bot uses a `config.yml` file to determine the settings for scraping and posting. Adjust the values in the `config.yml` file according to your requirements.
